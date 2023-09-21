@@ -1,0 +1,2 @@
+#ruby learning  for beginner.
+# with official ruby tutorial
